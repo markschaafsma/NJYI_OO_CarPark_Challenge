@@ -11,9 +11,4 @@ public class Truck extends Vehicle {
 		this.category = "";
 	}	
 		
-	//public Truck(String size, boolean handicappedPassengers) {
-		//super("Truck", size, handicappedPassengers);
-		//this.category = "";
-	//}	
-
 }
