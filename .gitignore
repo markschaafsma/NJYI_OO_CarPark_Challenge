@@ -1,0 +1,14 @@
+# Ignore classpath and project files
+.classpath
+.project
+# Ignore all text files 
+*.txt
+# Ignore binary folder
+/bin/
+# Ignore Visual Paradigm Project files
+/vpproject/*.vpp*
+# Ignore Visual Paradigm diagram folder
+/vpproject/diagrams/
+# Include jpg files of Visual Paradigm diagrams
+!/vpproject/diagrams/*.jpg
+
